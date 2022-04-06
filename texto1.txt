@@ -1,13 +1,7 @@
 linea1
 linea2
 linea3
-<<<<<<< HEAD
 linea4
-linea5
-linea6
-linea7
-linea8
-linea9
-=======
-linea4
->>>>>>> parent of 7f9717b (linea7)
+asd
+asds
+23
